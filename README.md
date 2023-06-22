@@ -1,5 +1,5 @@
 # PWA-Text-Editor
-(image)
+![App image](appimg.png)
 
 ![License Badge](https://shields.io/badge/license-MIT-blue)
 ## Table of Contents
@@ -12,7 +12,7 @@
 7. [Questions](#questions)
 
 ## Description
-This progressive web application uses IndexedDB for the database, Webpack to bundle the front-end, Workbox for the service worker used to cache static assets, and Heroku for the deployement host. Users can install this application to use offline or access it online here(add link).
+This progressive web application uses IndexedDB for the database, Webpack to bundle the front-end, Workbox for the service worker used to cache static assets, and Heroku for the deployement host. Users can install this application to use offline or access it online [HERE](https://shielded-dusk-65024-10dd3e0a24e8.herokuapp.com/).
 ## Installation
 npm install for dependencies
 ## Usage
@@ -20,7 +20,7 @@ npm install for dependencies
 2.Enter npm run build to bundle front-end code
 3.Run the server, enter npm run start
 4.Go to localhost PORT
-5.CLick 'install' to install application or use live at the link.(enter link)
+5.CLick 'install' to install application or use live [HERE](https://shielded-dusk-65024-10dd3e0a24e8.herokuapp.com/).
 ## Contributing
 fork, code, pull req.
 ## Tests
@@ -28,5 +28,4 @@ none
 ## License
 Checkouthttps://mit-license.org/for this project license information.
 ## Questions
-Checkout other projects [HERE](https://github.com/undefined) on Github 
-Direct any questions to gmailaddress. 
+Checkout other projects [HERE](https://github.com/Lennylettuce/PWA-Text-Editor) on Github 
